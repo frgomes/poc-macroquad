@@ -1,0 +1,16 @@
+# Emacs
+*~
+**/#*
+**/.#*
+
+# VSCode
+**/.vscode
+**/.editorconfig
+
+# IntelliJ
+.idea
+*.iml
+CMakeFiles
+
+target/
+Cargo.lock
